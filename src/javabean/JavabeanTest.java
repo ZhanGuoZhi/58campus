@@ -1,6 +1,5 @@
 package javabean;
 
-
 import java.sql.*;
 import java.io.Serializable;
 
