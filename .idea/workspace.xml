@@ -10,7 +10,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/javabean/RedisConnection.java" line="40" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd675065-1d3f-4f26-9f0d-394921331478" name="Default Changelist" comment="Flynn Zhang's minor modification.">
+    <list default="true" id="cd675065-1d3f-4f26-9f0d-394921331478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -320,7 +320,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557625655903</updated>
-      <workItem from="1557625669457" duration="12680000" />
+      <workItem from="1557625669457" duration="12941000" />
     </task>
     <task id="LOCAL-00001" summary="Flynn Zhang's first commitment.">
       <created>1557626128116</created>
@@ -364,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557637922691</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Flynn Zhang's minor modification.">
+      <created>1557638628744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557638628744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12680000" />
+    <option name="totallyTimeSpent" value="12941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,11 +396,11 @@
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2560778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.3299293" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49918962" visible="true" weight="0.36763552" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.36763552" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49918962" visible="true" weight="0.48153967" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.48153967" />
       <window_info anchor="bottom" id="Messages" weight="0.3299293" />
       <window_info anchor="bottom" id="Java Enterprise" weight="0.32914376" />
       <window_info anchor="bottom" id="Database Changes" />
