@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd675065-1d3f-4f26-9f0d-394921331478" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/javabean/JavabeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabean/JavabeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/58test/test.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -38,11 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javabean/JavabeanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -56,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javabean/RedisConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -102,8 +99,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="489" />
-    <option name="y" value="133" />
+    <option name="x" value="379" />
+    <option name="y" value="93" />
     <option name="width" value="1602" />
     <option name="height" value="1229" />
   </component>
@@ -119,17 +116,6 @@
             <path>
               <item name="58campus" type="b2602c69:ProjectViewProjectNode" />
               <item name="58campus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="58campus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="58campus" type="462c0819:PsiDirectoryNode" />
-              <item name="run" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="58campus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="58campus" type="462c0819:PsiDirectoryNode" />
-              <item name="run" type="462c0819:PsiDirectoryNode" />
-              <item name="apache-tomcat-9.0.19" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="58campus" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +327,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557625655903</updated>
-      <workItem from="1557625669457" duration="11838000" />
+      <workItem from="1557625669457" duration="12095000" />
     </task>
     <task id="LOCAL-00001" summary="Flynn Zhang's first commitment.">
       <created>1557626128116</created>
@@ -364,11 +350,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557637240234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Flynn Zhang's minor modification.">
+      <created>1557637689899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557637689899</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Flynn Zhang's minor modification.">
+      <created>1557637715371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557637715371</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11838000" />
+    <option name="totallyTimeSpent" value="12095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,8 +380,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="446" y="136" width="1602" height="1229" extended-state="0" />
-    <editor active="true" />
+    <frame x="379" y="93" width="1602" height="1229" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -394,7 +393,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.3299293" />
       <window_info anchor="bottom" id="Terminal" weight="0.17203456" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5006485" side_tool="true" visible="true" weight="0.45570776" />
       <window_info anchor="bottom" id="Messages" weight="0.3299293" />
       <window_info anchor="bottom" id="Java Enterprise" weight="0.32914376" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -403,7 +402,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46582875" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.18082191" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993515" visible="true" weight="0.45570776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914376" />
@@ -449,10 +448,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Flynn Zhang's first commitment." />
     <MESSAGE value="Flynn Zhang's database construction." />
-    <option name="LAST_COMMIT_MESSAGE" value="Flynn Zhang's database construction." />
+    <MESSAGE value="Flynn Zhang's minor modification." />
+    <option name="LAST_COMMIT_MESSAGE" value="Flynn Zhang's minor modification." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/runtime/apache-tomcat-9.0.19/webapps/examples/jsp/plugin/applet/Clock2.java">
@@ -462,20 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/58test/test.jsp">
+    <entry file="file://$PROJECT_DIR$/src/javabean/RedisConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabean/JavabeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -486,10 +475,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabean/RedisConnection.java">
+    <entry file="file://$PROJECT_DIR$/src/javabean/JavabeanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/58test/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
