@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="58campus" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.15" />
+          <element id="library" level="project" name="redisclient-win32.x86_64.2.0" />
+        </element>
       </element>
     </root>
   </artifact>
