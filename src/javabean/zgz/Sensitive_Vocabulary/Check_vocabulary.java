@@ -1,4 +1,4 @@
-package Sensitive_Vocabulary;
+package javabean.zgz.Sensitive_Vocabulary;
 
 import java.io.*;
 import java.util.Scanner;

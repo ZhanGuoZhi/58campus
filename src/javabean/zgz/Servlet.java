@@ -1,4 +1,4 @@
-package Upload_file;
+package javabean.zgz;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.MultipartConfig;
 import javax.servlet.annotation.WebServlet;
